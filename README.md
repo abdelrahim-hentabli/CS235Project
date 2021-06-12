@@ -14,7 +14,7 @@ This notebook uses k-means clustering to analyze the relationship between stocks
 ## Recurring Neural Network Notebook
 `BestOutcome(2008)-10days.ipynb`
 
-Stuffs...
+This notebook uses RNN(LSTM) to build a regression model. This notebooks is for 10 days and for trimmed dataset.  
 
 ## Dynamic Time Warping Notebook
 `DynamicTimeWarping.ipynb`
