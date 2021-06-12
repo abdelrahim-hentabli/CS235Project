@@ -7,9 +7,9 @@ Given the “Huge Stock Market Dataset” sourced by Kaggle, use Fourier transfo
 This notebook uses FFT to analyze the apple stock series and uses the frequencies to predict 100 days worth of data
 
 ## K-Means Notebook
-`FourierTransform.ipynb`
+`clustering.ipynb`
 
-This notebook uses FFT to analyze the apple stock series and uses the frequencies to predict 100 days worth of data
+This notebook uses k-means clustering to analyze the relationship between stocks to allow for a recommender system for diversifying or specializing a portfolio.
 
 ## Recurring Neural Network Notebook
 `BestOutcome(2008)-10days.ipynb`
